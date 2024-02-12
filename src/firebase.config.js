@@ -1,5 +1,7 @@
+// eslint-disable-next-line
 import { initializeApp } from "firebase/app";
 import { getFirestore } from 'firebase/firestore';
+// eslint-disable-next-line
 const firebaseConfig = {
   apiKey: "AIzaSyCeVu1XXS5y0e6A9fP1_K5d41ujsfB3gfU",
   authDomain: "house-marketplace-app-79666.firebaseapp.com",
